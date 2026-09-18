@@ -4,7 +4,7 @@
       <div class="container navbar">
 
         <router-link class="logo" to="/">
-          Wildberrrris
+          Violet Market
         </router-link>
 
         <nav>
